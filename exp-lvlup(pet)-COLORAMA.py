@@ -1,5 +1,3 @@
-#CREATEbyMHuong10
-#DONEbyMTri885
 #2.0
 #CALCULATE-EXP-FOR-PET-OWO
 import colorama

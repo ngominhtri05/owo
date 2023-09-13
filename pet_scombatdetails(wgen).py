@@ -1,4 +1,4 @@
-#byMHUONG10
+#...
 #cho-biet-pet-se-dung-skill/danh-thuong-o-turn-nao
 maxmana=int(input('Mana:'))
 cost=int(input('Cost:'))

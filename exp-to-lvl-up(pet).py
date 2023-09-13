@@ -1,5 +1,4 @@
-#byMHUONG10
-#1.0.4
+s#1.0.4
 #CALCULATE-EXP-FOR-PET
 print("_____________________________________")
 x=int(input('Level hiện tại: '))
